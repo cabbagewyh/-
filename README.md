@@ -26,4 +26,4 @@ int main(){
 	s=sum/x;
 	printf("%.0f %d",s,n);
 	return 0;	
-	}
+	}/*实现光棍数*/
