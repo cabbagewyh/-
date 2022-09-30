@@ -1,0 +1,31 @@
+html {
+  background-image: linear-gradient(to right, rgb(230, 125, 224) , rgb(247, 199, 207));;
+}
+
+button {
+  width: 500px;
+  height: 50px;
+  color: rgb(1, 7, 7);
+  background-color: rgb(91, 196, 187);
+  font-weight: bold;
+  font-size: 20px;
+  border-radius: 20px;
+  margin: 10px;
+  transition-duration: 1s;
+}
+div.total {
+  width: 1000px;
+  background-image: linear-gradient(to bottom right, rgb(139, 243, 238), rgb(43, 224, 97));
+  border-style: double;
+  border-style: ridge;
+  border-width: 20px;
+  border-color: blue;
+  text-align: center;
+  margin: 0 auto;
+  padding: 0px 20px 20px 20px;
+  border-radius: 10px;
+}
+
+h1 {
+  text-align: left;
+}
