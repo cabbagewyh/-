@@ -1,7 +1,7 @@
 >***求是潮面试(Q&A)***
 
 >关于本次作答：  
->在面试题的作答中主要参考了在（Q&A）中给出的README。md文档中建议阅读的教程，具体地址如下：  
+>在面试题的作答中主要参考了在（Q&A）中给出的README.md文档中建议阅读的教程，具体地址如下：  
 >*<https://zh.javascript.info/dom-nodes>  
 >*<https://developer.mozilla.org/zh-CN/docs/Learn/HTML/Introduction_to_HTML>  
 >此外也通过搜索学习了b站和CSDN的部分内容
